@@ -51,6 +51,7 @@ I’m a **Full-Stack Developer** with hands-on experience in **MERN Stack (Mongo
 - 📧 Email: **arjundholakiyav@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/arjun-dholakiya-6251592b9**
 - ✖️ X (Twitter): **https://x.com/arjunstwtx**
+- 🌐 Portfolio: **https://arjundholakiya.netlify.app**
   
 ---
 
